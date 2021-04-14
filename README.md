@@ -4,7 +4,7 @@
  <a href="https://bundlephobia.com/result?p=@motor-js/engine" title="Motor.js latest minified+gzip size"><img src="https://badgen.net/bundlephobia/minzip/@motor-js/engine" alt="gzip size"></a>
 
  
-# The React Framework for Qlik Sense Mashups.
+# The Headless, React Framework for Qlik Sense Mashups.
 
 #### Find docs, guides, the API and more at  [docs.motor.so](https://docs.motor.so).
 
@@ -17,6 +17,7 @@
 ### Quick Features
 
 - Simple, opinionated API for interacting with the Qlik engine
+- For use in React projects
 - Headless (100% customizable, Bring-your-own-UI)
 - Lightweight
 - Works with all Qlik Sense deployment types
