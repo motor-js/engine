@@ -23,7 +23,7 @@
 
 ### Get Started
 - npm i @motor-js/engine
-- Read the documentation [here](https://docs.motor.so/motor-js-engine/getting-started).
+- Read the documentation [here](https://docs.motor.so/motor-js-engine/getting-started)
 
 
 #### Get Started for free, purchase for Enterprise use [here](https://motor.so/pricing)
