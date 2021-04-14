@@ -6,11 +6,13 @@
  
 # The React Framework for Qlik Sense Mashups
 
-### Find docs, guides, the API and more at  [https://docs.motor.so](https://docs.motor.so)
+### Find docs, guides, the API and more at  [docs.motor.so](https://docs.motor.so)
 
-### Join our community at [discord](https://discord.com/invite/jmjx78N59b)
+### Looking to generate complete mashups? See our [homepage](https://motor.so)
 
-### This repo contains no source code. If you are looking for our open source implementation see here [https://github.com/motor-js/motor-ui] (https://github.com/motor-js/motor-ui)
+### Join our community on [discord](https://discord.com/invite/jmjx78N59b)
+
+### This repo contains no source code. If you are looking for our open source implementation see our [core package] (https://github.com/motor-js/motor-ui)
 
 ### Quick Features
 
