@@ -8,11 +8,11 @@
 
 #### Find docs, guides, the API and more at  [docs.motor.so](https://docs.motor.so).
 
-### Looking to generate complete mashups? See our [homepage](https://motor.so).
+#### Looking to generate complete mashups? See our [homepage](https://motor.so).
 
-### Join our community on [discord](https://discord.com/invite/jmjx78N59b).
+#### Join our community on [discord](https://discord.com/invite/jmjx78N59b).
 
-### This repo contains no source code. If you are looking for our open source implementation see our core [package](https://github.com/motor-js/motor-ui).
+#### This repo contains no source code. If you are looking for our open source implementation see our core [package](https://github.com/motor-js/motor-ui).
 
 ### Quick Features
 
