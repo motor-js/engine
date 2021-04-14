@@ -1,9 +1,8 @@
 ![Motor Logo](./motor_red.png)
 
 [![lerna](https://img.shields.io/badge/maintained%20with-lerna-cc00ff.svg)](https://lerna.js.org/)
-
  <a href="https://bundlephobia.com/result?p=@motor-js/engine" title="Motor.js latest minified+gzip size"><img src="https://badgen.net/bundlephobia/minzip/@motor-js/engine" alt="gzip size"></a>
- Discord Chat
+
  
 # The React Framework for Qlik Sense Mashups
 
