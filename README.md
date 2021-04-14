@@ -21,3 +21,8 @@
 - Lightweight
 - Works with all Qlik Sense deployment types
 
+#### Get Started for free, purchase for Enterprise use [here](https://motor.so/pricing)
+
+#### [License](https://docs.motor.so/motor-js-engine/license)
+
+
